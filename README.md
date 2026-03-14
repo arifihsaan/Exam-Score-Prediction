@@ -13,7 +13,7 @@ This project was built using:
 - Interactive web interface
 
 ## 🚀 Live Demo
-(Streamlit deployment link here)
+[Click here to access the live demo](https://exam-score-prediction-arf.streamlit.app/)
 
 ## 🧠 Machine Learning Model
 The model was trained using the **Student Performance Factors dataset** and implemented using a Scikit-Learn pipeline.
