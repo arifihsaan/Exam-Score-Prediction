@@ -81,6 +81,9 @@ This project follows the typical **Data Science pipeline**:
 
 ---
 
-## 🖥️ Running the App Locally
-
-Clone this repository:
+## 🖥️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,visualstudio,pycharm,github" />
+  </a>
+</p>
