@@ -23,4 +23,6 @@ Preprocessing includes:
 - OrdinalEncoder (ordinal features)
 - OneHotEncoder (categorical features)
 
-## 📁 Project Structure
+## Tools & Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,py,windows)](https://skillicons.dev)
